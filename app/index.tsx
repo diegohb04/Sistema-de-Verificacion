@@ -50,7 +50,7 @@ type DetailWithActivity = DetailRecord & {
   activityName: string;
 };
 
-const LOGO_SRC = "/assets/images/logo-consorcio-cenepa.png";
+const LOGO_SRC = "https://i.imgur.com/Ej1MRpv.png";
 
 export default function IndexPage() {
   //Establecer auth como primer "paso" dentro de la pagina
